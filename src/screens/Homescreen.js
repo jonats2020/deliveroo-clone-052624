@@ -29,7 +29,6 @@ const Homescreen = () => {
       setFeaturedCategories(data);
     })
   }, []);
-  
 
   return (
     <SafeAreaView className="bg-white pt-5">
